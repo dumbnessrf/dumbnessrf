@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dumbnessrf</h1>
 <h3 align="center">I'm creating software engineering from china</h3>
 
-- 🔭 I’m currently working on [SharpBoxes](https://github.com/dumbnessrf/SharpBoxes) open source library for .net developer
+- 🔭 I’m currently working on [SharpBoxes](https://github.com/dumbnessrf/SharpBoxes) and [SharpCanvas](https://github.com/dumbnessrf/SharpCanvas) open source library for .net developer
 
 - 🌱 I’m currently learning **Pytorch、Avalonia**
 

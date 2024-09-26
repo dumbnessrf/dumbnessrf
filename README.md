@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Net、Winform、WPF、Avalonia、Python**
 
-- 📫 How to reach me **dumbnessrf@outlook.com**
+- 📫 My nuget account [dumbnessrf](https://www.nuget.org/profiles/dumbnessrf)
 
 <h3 align="left">Connect with me:dumbnessrf@outlook.com</h3>
 <p align="left">

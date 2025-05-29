@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pytorch、Avalonia**
 
-- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/weixin_45277117?spm=1000.2115.3001.5343)，[Github Blog]([Introduction · Dumbnessrf](https://dumbnessrf.github.io/book/))(Not Ready)
+- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/weixin_45277117?spm=1000.2115.3001.5343)，[Github Blog]([Introduction · Dumbnessrf](https://dumbnessrf.github.io/))
 
 - 💬 Ask me about **Net、Winform、WPF、Avalonia、Python**
 
